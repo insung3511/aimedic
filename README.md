@@ -21,3 +21,17 @@
 
 ![img_0186](https://user-images.githubusercontent.com/17959335/48658449-3aa14e80-ea85-11e8-8342-5783b69c9aac.JPG) </br>
 이렇게 많은 약들의 사진들을 라즈베리파이에서 찍는다. 라즈베리파이에서 사진을 찍을때에는 파이썬 코드로 picamera 라이브러리를 이용해서 사진을 찍는다. 이 사진들은 찍어서 맥으로 옮길때에는 SFTP로 옮긴다. 옮긴 후 맥에서 Azure Custom Vision으로 업로드를 한다. 
+
+## Contact me
+----------------------------------------
+If you have problem about this code, then contect me. </br>
+Email : insung.park123@gmail.com </br>
+Facebook : https://www.facebook.com/insung.bahk </br>
+</br>
+If you want to give me some money... Please money send here! </br>
+Bitcoin : 17qKUu57aUBcvx9T1ea8Ga87EPnDdmwAEP </br>
+Ether : 0xdFE8D1536deE8F839Ede7c1f3A0c44116287D931  
+Bitcoin Cash : qp90gf09r3y3h06czmtnsfhz9w7s90se4s72vd9pam </br> 
+</br>
+🙇‍♀️👾🤩Thank you! 🤩👾🙇‍♂️ 
+----------------------------------------
